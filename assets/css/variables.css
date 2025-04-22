@@ -1,0 +1,30 @@
+:root {
+    --color-primary: #000D39;
+    --color-primary-pk: #0C016A;
+    --color-secondary: #D51415;
+    --color-background: #ffffff;
+    --color-black: #00000090;
+    
+    --color-text: #000000;
+    --color-white: #ffffff;
+    --color-red: #f01010;
+    --color-yellow: #FFFB00;
+}
+
+:root{
+    --navbar-logo-width-size: 170px;
+    --navbar-logo-height-size: 80px;
+
+    --navbar-font-size: 1.1rem;
+    --navbar-color-text: #ffffff;
+    --navbar-logo-left-position: 5%;
+}
+
+:root{
+    --icons-size: 40px;
+}
+
+:root{
+    --contact-border-size: 2px;
+}
+  
